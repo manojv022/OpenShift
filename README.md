@@ -1,3 +1,6 @@
+<img width="1191" height="484" alt="image" src="https://github.com/user-attachments/assets/9372e2ea-6c8b-471a-a0e0-ae5b1a801489" />
+
+
 ### OpenShift
 
 - OpenShift is a containerization platform developed by Red Hat that simplifies the deployment and management of containerized applications. It leverages Kubernetes as its underlying orchestration platform, enabling automated deployment, scaling, and management of applications. OpenShift is designed to facilitate collaboration between development and operations teams, providing tools and workflows that streamline the software development lifecycle.
