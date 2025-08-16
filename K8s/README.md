@@ -1,4 +1,4 @@
-
+##
 Top 10 Kubernetes Failures in Production 
 
 Kubernetes is powerful — but misconfigurations can lead to major outages, even in mature production environments.
